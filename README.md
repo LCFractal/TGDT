@@ -1,4 +1,4 @@
-# Image-Text Retrieval with Global and Local Similarity
+# Efficient Token-Guided Image-Text Retrieval with Consistent Multimodal Contrastive Training
 
 This repo is built on top of [VSE++](https://github.com/fartashf/vsepp) and [TERAN](https://github.com/mesnico/TERAN).
 
