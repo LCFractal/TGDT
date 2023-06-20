@@ -58,10 +58,12 @@ python3 train.py --config configs/coco_all.yaml --logger_name runs/coco_m0.3
 
 Please cite this work if you find it useful:.
 
+```
 @article{liu2023efficient,
   title={Efficient Token-Guided Image-Text Retrieval with Consistent Multimodal Contrastive Training},
   author={Liu, Chong and Zhang, Yuqi and Wang, Hongsong and Chen, Weihua and Wang, Fan and Huang, Yan and Shen, Yi-Dong and Wang, Liang},
   journal={IEEE Transactions on Image Processing},
   year={2023}
 }
+```
 
