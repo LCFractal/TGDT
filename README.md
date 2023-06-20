@@ -53,3 +53,15 @@ In order to train the model using a given configuration, issue the following com
 python3 train.py --config configs/f30k_all.yaml --logger_name runs/f30k_m0.3
 python3 train.py --config configs/coco_all.yaml --logger_name runs/coco_m0.3
 ```
+
+# Citation
+
+Please cite this work if you find it useful:.
+
+@article{liu2023efficient,
+  title={Efficient Token-Guided Image-Text Retrieval with Consistent Multimodal Contrastive Training},
+  author={Liu, Chong and Zhang, Yuqi and Wang, Hongsong and Chen, Weihua and Wang, Fan and Huang, Yan and Shen, Yi-Dong and Wang, Liang},
+  journal={IEEE Transactions on Image Processing},
+  year={2023}
+}
+
